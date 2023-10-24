@@ -1,0 +1,106 @@
+*{
+    padding:0;
+    margin:0;
+    color:aliceblue;
+}
+#navbar{
+    background-color:black;
+    height:60px;
+    margin-top:1px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#logo{
+    font-size:25px;
+    color:#f08804;
+}
+#button{
+    color:white;
+    background-color:#f08804
+}
+a{
+    margin-right:250px;
+    text-decoration:none;
+}
+input{
+    size: 1em;
+    color:black;
+}
+.navsearch:hover{
+    box-sizing: border-box;
+border-radius:1px;
+    border:1px solid orange;
+}
+#logo:hover{
+    border:2px solid orange;
+}
+.herosec{
+    height: 400px;
+    background-image:url(herosection.jpg) ;
+    background-size: cover;
+}
+.content{
+    height:300px;
+    background-color:#e2e7e6;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.box{
+    height:250px;
+    width:22%;
+    background-color: white;
+    
+
+}
+ h2 {
+    color:black;
+    
+}
+ .fot {
+    color:black;
+
+    
+    
+}
+ a:hover{
+    color:#f08804;
+
+}
+.img{
+    height:200px;
+    width:80%;
+    background-image: url("https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2022/February/DashboardCards/GW_CONS_AUS_HPC_HPCEssentials_CatCard_Desktop1x._SY304_CB627424361_.jpg");
+    background-size:cover;
+    margin-left:10%;
+}
+.tips{
+    height:200px;
+    width:80%;
+    background-image: url("https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Beauty_1x._SY304_CB432774351_.jpg");
+    background-size:cover;
+    margin-left:10%;
+}
+.electronic{
+    height:200px;
+    width:80%;
+    background-image: url("https://images-na.ssl-images-amazon.com/images/G/01/US-hq/2022/img/Amazon_Exports/XCM_CUTTLE_1469391_2584745_379x304_1X_en_US._SY304_CB609304299_.jpg");
+    background-size:cover;
+    margin-left:10%;
+}
+.computer{
+    height:200px;
+    width:80%;
+    background-image: url("https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_PC_1x._SY304_CB431800965_.jpg");
+    background-size:cover;
+    margin-left:10%;
+}
+
+
+    
+
+     
+
+
